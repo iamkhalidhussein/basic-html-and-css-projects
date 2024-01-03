@@ -1,0 +1,38 @@
+.header{
+    height: 200px;
+    background-image: url(../photos/fire.png);
+    /* background-repeat: no-repeat;  */
+    /* background-repeat: repeat-x;  */
+    /* background-repeat: repeat-y;  */
+    /* background-size: cover;  */
+    /* background-size: contain;  */
+    background-size: 200px; 
+
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* .second{
+    display: none; 
+    visibility: hidden; 
+}   */
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 12px purple;
+}
+.incident{
+    border: 2px solid powderblue;
+    display: inline-block;
+    margin: 20px;
+}
+li{
+    display: inline-block;
+}
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+    display: inline-block;
+}

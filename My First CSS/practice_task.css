@@ -1,0 +1,31 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+#fire-img img{
+    position: relative;
+    box-shadow: 10px 10px 14px palevioletred;
+}
+#task-2{
+    color: pink;
+    text-align: left;
+}
+#task-2 h2{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#task-2 p{
+    color: violet;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tag{
+    color: brown;
+}
+
+.thirdparagraph{
+    background-color: orchid;
+    margin: 60px;
+    padding: 30px;
+    border-radius: 8px;
+}

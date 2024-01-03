@@ -1,0 +1,14 @@
+.btn{
+    color: white;
+    background-color: red;
+    margin: 10px;
+    padding: 8px 18px;
+    border: 1px solid;
+    border-color: yellow;
+    border-radius: 4px;
+    
+}
+.btn:hover{
+    background-color: green;
+    color: orange;
+}
