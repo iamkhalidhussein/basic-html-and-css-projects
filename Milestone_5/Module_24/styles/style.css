@@ -1,0 +1,19 @@
+h1 {
+    color: lightcoral; 
+}
+.fruits-container li {
+    color: tomato;
+}
+#fruits-title {
+    color: black;
+}
+.important-places {
+    color: blueviolet;
+}
+
+.text-center {
+    text-align: center;
+}
+.large-text {
+    font-size: small;
+}
